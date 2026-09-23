@@ -1,0 +1,17 @@
+{
+  "id": "fba26eed8a3ae994f2852e55a9426307852a880e60b4fa239540c4bd91fe1448",
+  "created": "2026-09-23T04:46:29.623566Z",
+  "os": "linux",
+  "architecture": "amd64",
+  "config": {
+    "Env": [
+      "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
+    ],
+    "Entrypoint": [
+      "/app"
+    ]
+  },
+  "container_config": {
+    "Entrypoint": null
+  }
+}

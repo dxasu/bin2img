@@ -1,0 +1,11 @@
+[
+  {
+    "Config": "536308d16090b0a5616558f04a12103414e5b4bb547c74a39b45620a9e342f65.json",
+    "RepoTags": [
+      "app:scratch"
+    ],
+    "Layers": [
+      "fba26eed8a3ae994f2852e55a9426307852a880e60b4fa239540c4bd91fe1448/layer.tar"
+    ]
+  }
+]
